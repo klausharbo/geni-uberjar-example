@@ -5,4 +5,4 @@
 
 Referenced in [[https://github.com/zero-one-group/geni/issues/281][Issue#281]]
 
-To reproduce the issue, do ~lein uberjar~ or ~lein jar~.
+To reproduce the issue, do ~lein jar~ or ~lein uberjar~.
