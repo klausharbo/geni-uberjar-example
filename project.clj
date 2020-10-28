@@ -1,4 +1,4 @@
-(defproject geni-uberjar-example "0.0.1"
+(defproject geni-uberjar-example "0.0.1-SNAPSHOT"
   :source-paths			[] ;; provided by lein-tools-deps
   :resource-paths		[] ;; provided by lein-tools-deps
   :main				user
