@@ -2,7 +2,7 @@
   (:require [zero-one.geni.core :as g])
   (:gen-class))
 
-(defn- -main
+(defn -main
   "Convert csv file to parquet"
   [& args]
   (if (not= 1 (count args))
