@@ -4,3 +4,5 @@
 * This repo reproduces an issue with [[https://github.com/zero-one-group/geni][Geni]]
 
 Referenced in [[https://github.com/zero-one-group/geni/issues/281][Issue#281]]
+
+To reproduce the issue, do ~lein uberjar~.
